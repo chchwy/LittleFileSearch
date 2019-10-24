@@ -1,0 +1,15 @@
+*.pro.user
+ui_*.h
+/.qmake.stash
+
+/debug
+/release
+
+/Makefile
+/Makefile.Debug
+/Makefile.Release
+
+/.vs
+*.sln
+*.vcxproj
+*.vcxproj.filters
